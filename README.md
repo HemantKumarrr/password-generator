@@ -1,6 +1,6 @@
 # Password Generator
 
-This is a Password Generator application provides a private and protected passwords that makes your privacy strong.
+This is a Password Generator application provides private and protected passwords that makes your privacy strong.
 
 Currently, two official plugins are available:
 
