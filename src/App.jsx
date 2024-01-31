@@ -47,11 +47,11 @@ const App = () => {
           <div className="w-28" >
             Length : {passwordLength}
           </div>
-          <div className="">
+          <div>
             <input type="checkbox" id='number' onChange={()=> setIsNumber((prev)=> !prev)} />
             <label htmlFor="number"> Number</label>
           </div>
-          <div className="">
+          <div>
             <input type="checkbox" id='character' onChange={()=> setIsCharacter((prev)=> !prev)} />
             <label htmlFor="character"> Character</label>
           </div>
